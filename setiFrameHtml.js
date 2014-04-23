@@ -1,7 +1,7 @@
 /**
  * @author     Ryo Watanabe
  * @version    0.0.1
- * 
+ *
  * Flash上にポップアップさせた感じで
  * iFrame(sample.html)を表示させるサンプル
  * wmode="opaque"で行う事
